@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "INTERNATIONAL DESIGN STUDIO 3D is creative studio dedicated to the production of illustrations for architecture, design or art with more than 5 years of experience.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "idstudio3d"
+  ],
+  "author": "darshan hire",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "nodemailer": "^6.7.2"
+  }
+}
